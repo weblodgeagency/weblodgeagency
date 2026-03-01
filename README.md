@@ -25,13 +25,6 @@ I am a highly skilled professional with hands-on experience in the MERN (MongoDB
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weblodgeagency&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weblodgeagency&layout=compact&theme=radical)
-
----
-
 ### 🚀 Current Focus
 
 - Building scalable MERN applications
