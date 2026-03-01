@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm S. M. Mezbah Uddin</h1>
+<h3 align="center">🚀 MERN Stack Developer | Founder of Weblodge Agency</h3>
 
-<!--
-**weblodgeagency/weblodgeagency** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I build fast, scalable & conversion-focused web applications.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 💼 Founder of Weblodge Agency
+- 💻 MERN Stack Developer
+- 🔥 Focused on performance & clean architecture
+- 🌱 Currently building full-stack applications
+- ⚡ Passionate about UI + backend systems
+
+---
+
+### 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weblodgeagency&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weblodgeagency&layout=compact&theme=radical)
+
+---
+
+### 🚀 Current Focus
+
+- Building scalable MERN applications
+- Improving backend architecture
+- Creating high-performance UI systems
+
+---
+
+### 📫 Connect With Me
+
+🌐 Website: https://weblodge.agency  
+📧 Email: hello@weblodge.agency  
+📱 WhatsApp: https://wa.me/8801712799493
