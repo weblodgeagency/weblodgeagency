@@ -51,7 +51,7 @@ I am a highly skilled professional with hands-on experience in the MERN (MongoDB
 ### 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,git,github" />
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,git,github,wordpress,lottiefiles" />
 </p>
 
 ---
