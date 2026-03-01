@@ -5,17 +5,29 @@
   <a href="https://www.facebook.com/weblodge" rel="nofollow">
     <img src="https://weblodge.agency/wp-content/uploads/2025/09/Facebook-icon-animation.gif" alt="weblodge-facebook" height="40" width="40">
   </a>
-  <a href="https://www.linkedin.com/in/weblodgeagency" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="weblodge-linkedin" height="30" width="40">
+  <a href="https://www.instagram.com/weblodge_agency" rel="nofollow">
+    <img src="https://weblodge.agency/wp-content/uploads/2025/09/Instagram-icon-animation.gif" alt="weblodge-instagram" height="40" width="40">
   </a>
-  <a href="https://www.facebook.com/weblodgeagency" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="weblodge-facebook" height="30" width="40">
+  <a href="https://www.x.com/weblodge_agency" rel="nofollow">
+    <img src="https://weblodge.agency/wp-content/uploads/2025/09/Twitter-icon-animation.gif" alt="weblodge-x" height="40" width="40">
   </a>
-  <a href="https://www.instagram.com/weblodgeagency" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="weblodge-instagram" height="30" width="40">
+  <a href="https://www.lottiefiles.com/weblodge" rel="nofollow">
+    <img src="https://weblodge.agency/wp-content/uploads/2025/09/Lottiefiles-icon-animation1.gif" alt="weblodge-lottiefiles" height="40" width="40">
   </a>
-  <a href="https://wa.me/8801712799493" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="weblodge-whatsapp" height="30" width="40">
+  <a href="https://linkedin.com/company/weblodge" rel="nofollow">
+    <img src="https://weblodge.agency/wp-content/uploads/2025/09/Linkedin-icon-animation.gif" alt="weblodge-linkedin" height="40" width="40">
+  </a>
+  <a href="https://dribbble.com/weblodge" rel="nofollow">
+    <img src="https://weblodge.agency/wp-content/uploads/2025/09/Dribbble-icon-animation.gif" alt="weblodge-dribbble" height="40" width="40">
+  </a>
+  <a href="https://behance.net/weblodge" rel="nofollow">
+    <img src="https://weblodge.agency/wp-content/uploads/2025/09/Behance-icon-animation.gif" alt="weblodge-behance" height="40" width="40">
+  </a>
+  <a href="https://pinterest.com/weblodge" rel="nofollow">
+    <img src="https://weblodge.agency/wp-content/uploads/2025/09/Pinterest-icon-animation2.gif" alt="weblodge-pinterest" height="40" width="40">
+  </a>
+  <a href="https://youtube.com/@weblodge_agency/videos" rel="nofollow">
+    <img src="https://weblodge.agency/wp-content/uploads/2025/09/Youtube-icon-animation.gif" alt="weblodge-youtube" height="40" width="40">
   </a>
 </p>
 <h3 align="center">🚀 MERN Stack Developer | Founder of Weblodge Agency</h3>
