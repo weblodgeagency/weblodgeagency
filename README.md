@@ -75,8 +75,6 @@ I am a highly skilled professional with hands-on experience in the MERN (MongoDB
 <details>
   <summary>View Detailed Metrics</summary>
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weblodgeagency&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weblodgeagency&layout=compact&theme=radical)
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=weblodgeagency&theme=dark&hide_border=true)
 
 </details>
