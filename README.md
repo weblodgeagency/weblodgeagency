@@ -2,8 +2,8 @@
 <h3 align="center" class="heading-element" dir="auto">🌐 Professional Network</h3>
 
 <p align="center" dir="auto">
-  <a href="https://x.com/weblodgeagency" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="weblodge-x" height="30" width="40">
+  <a href="https://www.facebook.com/weblodge" rel="nofollow">
+    <img src="https://weblodge.agency/wp-content/uploads/2025/09/Facebook-icon-animation.gif" alt="weblodge-facebook" height="40" width="40">
   </a>
   <a href="https://www.linkedin.com/in/weblodgeagency" rel="nofollow">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="weblodge-linkedin" height="30" width="40">
