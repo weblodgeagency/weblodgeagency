@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm S. M. Mezbah Uddin</h1>
-<h3 class="heading-element" dir="auto">🌐 Professional Network</h3>
-<p align="left" dir="auto">
+<h3 align="center" class="heading-element" dir="auto">🌐 Professional Network</h3>
+
+<p align="center" dir="auto">
   <a href="https://x.com/weblodgeagency" rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="weblodge-x" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="weblodge-x" height="30" width="40">
   </a>
   <a href="https://www.linkedin.com/in/weblodgeagency" rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="weblodge-linkedin" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="weblodge-linkedin" height="30" width="40">
   </a>
   <a href="https://www.facebook.com/weblodgeagency" rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="weblodge-facebook" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="weblodge-facebook" height="30" width="40">
   </a>
   <a href="https://www.instagram.com/weblodgeagency" rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="weblodge-instagram" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="weblodge-instagram" height="30" width="40">
   </a>
   <a href="https://wa.me/8801712799493" rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="weblodge-whatsapp" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="weblodge-whatsapp" height="30" width="40">
   </a>
 </p>
 <h3 align="center">🚀 MERN Stack Developer | Founder of Weblodge Agency</h3>
