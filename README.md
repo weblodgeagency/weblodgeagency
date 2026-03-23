@@ -51,9 +51,12 @@
 ## 🚀 Featured Work
 
 <p align="center">
-  <img src="https://via.placeholder.com/250x150?text=Lottie+Animation" width="250"/>
-  <img src="https://via.placeholder.com/250x150?text=Email+Signature" width="250"/>
-  <img src="https://via.placeholder.com/250x150?text=Website+UI" width="250"/>
+  <img src="https://weblodge.agency/wp-content/uploads/2026/02/Weblodge-agency-Make-your-website-work-like-a-salesman-with-leading-white-label-digital-marketing-service-provider-from-Bangladesh-wordpress-ezgif.com-png-to-webp-converter.webp" width="250"/>
+  <img src="https://weblodge.agency/wp-content/uploads/2026/02/Weblodge-agency-Make-your-website-work-like-a-salesman-with-leading-white-label-digital-marketing-service-provider-from-Bangladesh-figma.webp" width="250"/>
+  <img src="https://weblodge.agency/wp-content/uploads/2026/02/Weblodge-agency-Make-your-website-work-like-a-salesman-with-leading-white-label-digital-marketing-service-provider-from-Bangladesh-lottie.webp" width="250"/>
+  <img src="https://weblodge.agency/wp-content/uploads/2026/02/Weblodge-agency-Make-your-website-work-like-a-salesman-with-leading-white-label-digital-marketing-service-provider-from-Bangladesh-logo.webp" width="250"/>
+  <img src="https://weblodge.agency/wp-content/uploads/2026/02/Weblodge-agency-Make-your-website-work-like-a-salesman-with-leading-white-label-digital-marketing-service-provider-from-Bangladesh-email.webp" width="250"/>
+  <img src="https://weblodge.agency/wp-content/uploads/2026/02/Weblodge-agency-Make-your-website-work-like-a-salesman-with-leading-white-label-digital-marketing-service-provider-from-Bangladesh-motion-graphic.webp" width="250"/>
 </p>
 
 ---
