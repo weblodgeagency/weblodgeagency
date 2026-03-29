@@ -27,16 +27,16 @@
     <img src="https://weblodge.agency/wp-content/uploads/2025/09/Twitter-icon-animation.gif" height="40" width="40">
   </a>
   <a href="https://www.lottiefiles.com/weblodge">
-    <img src="https://weblodge.agency/wp-content/uploads/2025/09/Lottiefiles-icon-animation1.gif" height="40" width="40">
+    <img src="https://weblodge.agency/wp-content/uploads/2026/03/Lottiefiles-preloader-animation.gif" height="40" width="40">
   </a>
   <a href="https://linkedin.com/company/weblodge">
-    <img src="https://weblodge.agency/wp-content/uploads/2025/09/Linkedin-icon-animation.gif" height="40" width="40">
+    <img src="https://weblodge.agency/wp-content/uploads/2026/03/Linkedin-icon-animation.gif" height="40" width="40">
   </a>
   <a href="https://dribbble.com/weblodge">
     <img src="https://weblodge.agency/wp-content/uploads/2025/09/Dribbble-icon-animation.gif" height="40" width="40">
   </a>
   <a href="https://behance.net/weblodge">
-    <img src="https://weblodge.agency/wp-content/uploads/2025/09/Behance-icon-animation.gif" height="40" width="40">
+    <img src="https://weblodge.agency/wp-content/uploads/2026/03/Behance-icon-animation.gif" height="40" width="40">
   </a>
   <a href="https://pinterest.com/weblodge">
     <img src="https://weblodge.agency/wp-content/uploads/2025/09/Pinterest-icon-animation2.gif" height="40" width="40">
