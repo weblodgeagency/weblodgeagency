@@ -51,12 +51,12 @@
 ## 🚀 Featured Work
 
 <p align="center">
-  <img src="https://weblodge.agency/wp-content/uploads/2026/02/Weblodge-agency-Make-your-website-work-like-a-salesman-with-leading-white-label-digital-marketing-service-provider-from-Bangladesh-wordpress-ezgif.com-png-to-webp-converter.webp" width="250"/>
-  <img src="https://weblodge.agency/wp-content/uploads/2026/02/Weblodge-agency-Make-your-website-work-like-a-salesman-with-leading-white-label-digital-marketing-service-provider-from-Bangladesh-figma.webp" width="250"/>
-  <img src="https://weblodge.agency/wp-content/uploads/2026/02/Weblodge-agency-Make-your-website-work-like-a-salesman-with-leading-white-label-digital-marketing-service-provider-from-Bangladesh-lottie.webp" width="250"/>
-  <img src="https://weblodge.agency/wp-content/uploads/2026/02/Weblodge-agency-Make-your-website-work-like-a-salesman-with-leading-white-label-digital-marketing-service-provider-from-Bangladesh-logo.webp" width="250"/>
-  <img src="https://weblodge.agency/wp-content/uploads/2026/02/Weblodge-agency-Make-your-website-work-like-a-salesman-with-leading-white-label-digital-marketing-service-provider-from-Bangladesh-email.webp" width="250"/>
-  <img src="https://weblodge.agency/wp-content/uploads/2026/02/Weblodge-agency-Make-your-website-work-like-a-salesman-with-leading-white-label-digital-marketing-service-provider-from-Bangladesh-motion-graphic.webp" width="250"/>
+  <img src="https://weblodge.agency/wp-content/uploads/2026/05/Figma-scroll-animation.gif" width="250"/>
+  <img src="https://weblodge.agency/wp-content/uploads/2026/05/Lottie-animation.gif" width="250"/>
+  <img src="https://weblodge.agency/wp-content/uploads/2026/05/Motion-graphic.gif" width="250"/>
+  <img src="https://weblodge.agency/wp-content/uploads/2026/05/Email-design-animation.gif" width="250"/>
+  <img src="https://weblodge.agency/wp-content/uploads/2026/05/Logo-animation.gif" width="250"/>
+  <img src="https://weblodge.agency/wp-content/uploads/2026/05/Wordpress-scroll-animation.gif" width="250"/>
 </p>
 
 ---
