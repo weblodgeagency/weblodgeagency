@@ -10,7 +10,7 @@ Make your website like a sales machine.
 </p>
 
 <p align="center">
-🌐 <a href="https://weblodge.agency">weblodge.agency</a> &nbsp;•&nbsp; 📍 Bogura, Bangladesh &nbsp;•&nbsp; 📧 <a href="mailto:info.weblodge.agency@gmail.com">info.weblodge.agency@gmail.com</a>
+🌐 <a href="https://weblodge.agency">weblodge.agency</a> &nbsp;•&nbsp; 📍 Bogura, Bangladesh &nbsp;•&nbsp; 📧 <a href="mailto:weblodge.agency@gmail.com">weblodge.agency@gmail.com</a>
 </p>
 
 <p align="center">
@@ -152,6 +152,6 @@ I also design for agencies and businesses who deliver under their own brand:
 Have a project in mind, or want a website for your business?
 
 🌐 https://weblodge.agency
-📧 [info.weblodge.agency@gmail.com](mailto:info.weblodge.agency@gmail.com)
+📧 [weblodge.agency@gmail.com](mailto:weblodge.agency@gmail.com)
 
 👉 Available for freelance & agency projects
