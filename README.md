@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm S. M. Mezbah Uddin</h1>
 
 <h3 align="center">
-💻 MERN Stack Developer & Founder of Weblodge Agency
+💻 Founder of Weblodge Agency
 </h3>
 
 <p align="center">
