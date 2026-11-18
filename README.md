@@ -23,11 +23,9 @@ Make your website like a sales machine.
 
 Websites I built for small businesses — click any project to explore it:
 
-| Project | What it shows |
-| --- | --- |
-| 🍽️ [Family Restaurant](https://weblodgeagency.github.io/host/restaurant/) | Menu with prices, reviews, hours, reservations |
-| 💇 [Hair Salon & Barbershop](https://weblodgeagency.github.io/host/salon/) | Services with prices, stylists, reviews, booking |
-| 🔧 [Auto Repair Shop](https://weblodgeagency.github.io/host/auto-repair/) | Services with prices, reviews, appointment booking |
+| | | |
+| --- | --- | --- |
+| [![Family Restaurant — The Copper Skillet, Austin TX](https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=600&auto=format&fit=crop)](https://weblodgeagency.github.io/host/restaurant/)<br>**🍽️ Family Restaurant** — Menu with prices, reviews, hours, reservations | [![Hair Salon & Barbershop — The Velvet Strand, Dallas TX](https://images.unsplash.com/photo-1560066984-138dadb4c035?q=80&w=600&auto=format&fit=crop)](https://weblodgeagency.github.io/host/salon/)<br>**💇 Hair Salon & Barbershop** — Services with prices, stylists, reviews, booking | [![Auto Repair Shop — Ironline Auto Care, Houston TX](https://images.unsplash.com/photo-1625047509168-a7026f36de04?q=80&w=600&auto=format&fit=crop)](https://weblodgeagency.github.io/host/auto-repair/)<br>**🔧 Auto Repair Shop** — Services with prices, reviews, appointment booking |
 
 👉 [See all projects](https://weblodgeagency.github.io/host/)
 
@@ -35,14 +33,12 @@ Websites I built for small businesses — click any project to explore it:
 
 ## 🏆 Featured Projects
 
-| Project | Work |
-| --- | --- |
-| [Novidea](https://novidea.com) | Website Design & Development |
-| [Fat Rabbit Creative](https://fatrabbitcreative.com) | Creative Agency Website |
-| [Data Sales](https://datasales.com) | WordPress Website Development |
-| [Uptick Marketing](https://uptickmarketing.com.au) | Branding & Digital Design |
-| [Dingane Baruti M.D.](https://walkforlife.net) | Animated Email Signature |
-| [Billingplatform](https://billingplatform.com) | Explainer Video |
+Real client work — click any project to visit the live site:
+
+| | | |
+| --- | --- | --- |
+| [![Novidea](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=600&auto=format&fit=crop)](https://novidea.com)<br>**[Novidea](https://novidea.com)** — Website Design & Development | [![Fat Rabbit Creative](https://images.unsplash.com/photo-1558655146-9f40138edfeb?q=80&w=600&auto=format&fit=crop)](https://fatrabbitcreative.com)<br>**[Fat Rabbit Creative](https://fatrabbitcreative.com)** — Creative Agency Website | [![Data Sales](https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=600&auto=format&fit=crop)](https://datasales.com)<br>**[Data Sales](https://datasales.com)** — WordPress Website Development |
+| [![Uptick Marketing](https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=600&auto=format&fit=crop)](https://uptickmarketing.com.au)<br>**[Uptick Marketing](https://uptickmarketing.com.au)** — Branding & Digital Design | [![Dingane Baruti M.D.](https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=600&auto=format&fit=crop)](https://walkforlife.net)<br>**[Dingane Baruti M.D.](https://walkforlife.net)** — Animated Email Signature | [![Billingplatform](https://images.unsplash.com/photo-1554224155-6726b3ff858f?q=80&w=600&auto=format&fit=crop)](https://billingplatform.com)<br>**[Billingplatform](https://billingplatform.com)** — Explainer Video |
 
 ---
 
