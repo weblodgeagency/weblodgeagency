@@ -74,7 +74,6 @@ I also design for agencies and businesses who deliver under their own brand:
 ## 🧠 About Me
 
 * 💼 Founder of [Weblodge Agency](https://weblodge.agency)
-* 💻 MERN Stack Developer — MongoDB, Express, React, Node.js
 * 🌐 Focused on WordPress websites that help small businesses grow
 * ⚡ What I stand for: Fast Delivery, Strong Partnerships, Clean Code, Reliable Support, Custom Solutions, Cutting-Edge Tech
 * 🌱 Always learning, always building
