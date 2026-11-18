@@ -44,12 +44,10 @@ Real client work — click any project to visit the live site:
 
 ## 💼 What I Can Do For You
 
-✔ **WordPress Development** — fast, modern websites for small businesses
-✔ **Figma UI/UX Design** — clean, professional designs that convert visitors into customers
-✔ **Lottie JSON Animation** — lightweight animations that bring websites to life
-✔ **Animated Email Signature** — clickable, branded signatures
-✔ **Premium Logo Design** — memorable logos for your brand
-✔ **Motion Graphics** — engaging video and animation content
+| | | |
+| --- | --- | --- |
+| ![WordPress Development](https://raw.githubusercontent.com/weblodgeagency/weblodgeagency/main/assets/service-wordpress.png)<br>**WordPress Development** — fast, modern websites for small businesses | ![Figma UI/UX Design](https://raw.githubusercontent.com/weblodgeagency/weblodgeagency/main/assets/service-figma.png)<br>**Figma UI/UX Design** — clean, professional designs that convert visitors into customers | ![Lottie JSON Animation](https://raw.githubusercontent.com/weblodgeagency/weblodgeagency/main/assets/service-lottie.png)<br>**Lottie JSON Animation** — lightweight animations that bring websites to life |
+| ![Animated Email Signature](https://raw.githubusercontent.com/weblodgeagency/weblodgeagency/main/assets/service-email-signature.png)<br>**Animated Email Signature** — clickable, branded signatures | ![Premium Logo Design](https://raw.githubusercontent.com/weblodgeagency/weblodgeagency/main/assets/service-logo-design.png)<br>**Premium Logo Design** — memorable logos for your brand | ![Motion Graphics](https://raw.githubusercontent.com/weblodgeagency/weblodgeagency/main/assets/service-motion-graphics.png)<br>**Motion Graphics** — engaging video and animation content |
 
 ---
 
@@ -57,29 +55,19 @@ Real client work — click any project to visit the live site:
 
 I also design for agencies and businesses who deliver under their own brand:
 
-✔ Your brand, your client — I never contact your end clients
-✔ NDA & SLA available on request
-✔ Revisions included in every package
+✔ Your brand, your client — I never contact your end clients<br>
+✔ NDA & SLA available on request<br>
+✔ Revisions included in every package<br>
 ✔ Fast delivery, clean code, reliable support
 
 ---
 
 ## ⚙️ How I Work
 
-**01** Discussion → **02** Invention & Exploration → **03** Establishing Plan → **04** Start Designing → **05** Feedback Cycle → **06** Job Done
-
----
-
-## 🚀 Featured Work
-
-Websites I designed and built for local businesses — click any image to see the live site:
-
 | | | |
 | --- | --- | --- |
-| [![The Copper Skillet — Restaurant, Austin TX](https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=600&auto=format&fit=crop)](https://weblodgeagency.github.io/host/restaurant/)<br>**The Copper Skillet** — Restaurant, Austin TX | [![The Velvet Strand — Hair Salon, Dallas TX](https://images.unsplash.com/photo-1560066984-138dadb4c035?q=80&w=600&auto=format&fit=crop)](https://weblodgeagency.github.io/host/salon/)<br>**The Velvet Strand** — Hair Salon, Dallas TX | [![Ironline Auto Care — Auto Repair, Houston TX](https://images.unsplash.com/photo-1625047509168-a7026f36de04?q=80&w=600&auto=format&fit=crop)](https://weblodgeagency.github.io/host/auto-repair/)<br>**Ironline Auto Care** — Auto Repair, Houston TX |
-| [![The Sugar Magnolia Bakery — Bakery, Decatur GA](https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&w=600&auto=format&fit=crop)](https://weblodgeagency.github.io/host/sugar-magnolia-bakery/)<br>**The Sugar Magnolia Bakery** — Bakery, Decatur GA | [![BrightPath Dental — Dental Clinic, Little Rock AR](https://images.unsplash.com/photo-1606811841689-23dfddce3e95?q=80&w=600&auto=format&fit=crop)](https://weblodgeagency.github.io/host/brightpath-dental/)<br>**BrightPath Dental** — Dental Clinic, Little Rock AR | [![Forge Fitness Studio — Gym, Orlando FL](https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=600&auto=format&fit=crop)](https://weblodgeagency.github.io/host/forge-fitness-studio/)<br>**Forge Fitness Studio** — Gym, Orlando FL |
-
-👉 [See all 60 projects](https://weblodgeagency.github.io/host/)
+| ![01 Discussion](https://raw.githubusercontent.com/weblodgeagency/weblodgeagency/main/assets/process-01-discussion.gif)<br>**01 Discussion** | ![02 Invention & Exploration](https://raw.githubusercontent.com/weblodgeagency/weblodgeagency/main/assets/process-02-invention.gif)<br>**02 Invention & Exploration** | ![03 Establishing Plan](https://raw.githubusercontent.com/weblodgeagency/weblodgeagency/main/assets/process-03-plan.gif)<br>**03 Establishing Plan** |
+| ![04 Start Designing](https://raw.githubusercontent.com/weblodgeagency/weblodgeagency/main/assets/process-04-designing.gif)<br>**04 Start Designing** | ![05 Feedback Cycle](https://raw.githubusercontent.com/weblodgeagency/weblodgeagency/main/assets/process-05-feedback.gif)<br>**05 Feedback Cycle** | ![06 Job Done](https://raw.githubusercontent.com/weblodgeagency/weblodgeagency/main/assets/process-06-job-done.gif)<br>**06 Job Done** |
 
 ---
 
