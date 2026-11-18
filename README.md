@@ -76,14 +76,14 @@ I also design for agencies and businesses who deliver under their own brand:
 
 ## 🚀 Featured Work
 
-<p align="center">
-  <img src="https://weblodge.agency/wp-content/uploads/2026/05/Figma-scroll-animation.gif" width="250"/>
-  <img src="https://weblodge.agency/wp-content/uploads/2026/05/Lottie-animation.gif" width="250"/>
-  <img src="https://weblodge.agency/wp-content/uploads/2026/05/Motion-graphic.gif" width="250"/>
-  <img src="https://weblodge.agency/wp-content/uploads/2026/05/Email-design-animation.gif" width="250"/>
-  <img src="https://weblodge.agency/wp-content/uploads/2026/05/Logo-animation.gif" width="250"/>
-  <img src="https://weblodge.agency/wp-content/uploads/2026/05/Wordpress-scroll-animation.gif" width="250"/>
-</p>
+Websites I designed and built for local businesses — click any image to see the live site:
+
+| | | |
+| --- | --- | --- |
+| [![The Copper Skillet — Restaurant, Austin TX](https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=600&auto=format&fit=crop)](https://weblodgeagency.github.io/host/restaurant/)<br>**The Copper Skillet** — Restaurant, Austin TX | [![The Velvet Strand — Hair Salon, Dallas TX](https://images.unsplash.com/photo-1560066984-138dadb4c035?q=80&w=600&auto=format&fit=crop)](https://weblodgeagency.github.io/host/salon/)<br>**The Velvet Strand** — Hair Salon, Dallas TX | [![Ironline Auto Care — Auto Repair, Houston TX](https://images.unsplash.com/photo-1625047509168-a7026f36de04?q=80&w=600&auto=format&fit=crop)](https://weblodgeagency.github.io/host/auto-repair/)<br>**Ironline Auto Care** — Auto Repair, Houston TX |
+| [![The Sugar Magnolia Bakery — Bakery, Decatur GA](https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&w=600&auto=format&fit=crop)](https://weblodgeagency.github.io/host/sugar-magnolia-bakery/)<br>**The Sugar Magnolia Bakery** — Bakery, Decatur GA | [![BrightPath Dental — Dental Clinic, Little Rock AR](https://images.unsplash.com/photo-1606811841689-23dfddce3e95?q=80&w=600&auto=format&fit=crop)](https://weblodgeagency.github.io/host/brightpath-dental/)<br>**BrightPath Dental** — Dental Clinic, Little Rock AR | [![Forge Fitness Studio — Gym, Orlando FL](https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=600&auto=format&fit=crop)](https://weblodgeagency.github.io/host/forge-fitness-studio/)<br>**Forge Fitness Studio** — Gym, Orlando FL |
+
+👉 [See all 60 projects](https://weblodgeagency.github.io/host/)
 
 ---
 
@@ -108,33 +108,15 @@ I also design for agencies and businesses who deliver under their own brand:
 ## 🌐 Find Me Online
 
 <p align="center">
-  <a href="https://www.facebook.com/weblodge">
-    <img src="https://weblodge.agency/wp-content/uploads/2026/05/Facebook-icon-animation.gif" height="40" width="40">
-  </a>
-  <a href="https://www.instagram.com/weblodge_agency">
-    <img src="https://weblodge.agency/wp-content/uploads/2026/05/Instagram-icon-animation.gif" height="40" width="40">
-  </a>
-  <a href="https://www.x.com/weblodge_agency">
-    <img src="https://weblodge.agency/wp-content/uploads/2026/05/Twitter-icon-animation.gif" height="40" width="40">
-  </a>
-  <a href="https://www.lottiefiles.com/weblodge">
-    <img src="https://weblodge.agency/wp-content/uploads/2026/05/Lottiefiles-preloader-animation.gif" height="40" width="40">
-  </a>
-  <a href="https://linkedin.com/company/weblodge">
-    <img src="https://weblodge.agency/wp-content/uploads/2026/05/Linkedin-icon-animation.gif" height="40" width="40">
-  </a>
-  <a href="https://dribbble.com/weblodge">
-    <img src="https://weblodge.agency/wp-content/uploads/2025/09/Dribbble-icon-animation.gif" height="40" width="40">
-  </a>
-  <a href="https://behance.net/weblodge">
-    <img src="https://weblodge.agency/wp-content/uploads/2026/05/Behance-icon-animation.gif" height="40" width="40">
-  </a>
-  <a href="https://pinterest.com/weblodge">
-    <img src="https://weblodge.agency/wp-content/uploads/2026/05/Pinterest-icon-animation2.gif" height="40" width="40">
-  </a>
-  <a href="https://youtube.com/@weblodge_agency/videos">
-    <img src="https://weblodge.agency/wp-content/uploads/2026/05/Youtube-icon-animation.gif" height="40" width="40">
-  </a>
+  <a href="https://www.facebook.com/weblodge"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.instagram.com/weblodge_agency"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.x.com/weblodge_agency"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.lottiefiles.com/weblodge"><img src="https://img.shields.io/badge/LottieFiles-00DDB3?logoColor=white" alt="LottieFiles"></a>
+  <a href="https://linkedin.com/company/weblodge"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://dribbble.com/weblodge"><img src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white" alt="Dribbble"></a>
+  <a href="https://behance.net/weblodge"><img src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white" alt="Behance"></a>
+  <a href="https://pinterest.com/weblodge"><img src="https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white" alt="Pinterest"></a>
+  <a href="https://youtube.com/@weblodge_agency/videos"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
 ---
