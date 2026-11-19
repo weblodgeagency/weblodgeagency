@@ -23,9 +23,18 @@ Make your website like a sales machine.
 
 Websites I built for small businesses — click any project to explore it:
 
-| | | |
-| --- | --- | --- |
-| <a href="https://weblodgeagency.github.io/the-rustic-fork/" target="_blank"><img src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=600&h=400&auto=format&fit=crop" width="250" alt="Farm-to-Table Restaurant — The Rustic Fork, Denver CO"></a><br>**🍽️ Farm-to-Table Restaurant** — Menu with prices, reviews, hours, reservations | <a href="https://weblodgeagency.github.io/host/salon/" target="_blank"><img src="https://images.unsplash.com/photo-1560066984-138dadb4c035?q=80&w=600&h=400&auto=format&fit=crop" width="250" alt="Hair Salon & Barbershop — The Velvet Strand, Dallas TX"></a><br>**💇 Hair Salon & Barbershop** — Services with prices, stylists, reviews, booking | <a href="https://weblodgeagency.github.io/host/auto-repair/" target="_blank"><img src="https://images.unsplash.com/photo-1625047509168-a7026f36de04?q=80&w=600&h=400&auto=format&fit=crop" width="250" alt="Auto Repair Shop — Ironline Auto Care, Houston TX"></a><br>**🔧 Auto Repair Shop** — Services with prices, reviews, appointment booking |
+<table>
+<thead>
+<tr><th width="250"></th><th width="250"></th><th width="250"></th></tr>
+</thead>
+<tbody>
+<tr>
+<td width="250"><a href="https://weblodgeagency.github.io/the-rustic-fork/" target="_blank"><img src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=600&h=400&auto=format&fit=crop" width="250" alt="Farm-to-Table Restaurant — The Rustic Fork, Denver CO"></a><br><strong>🍽️ Farm-to-Table Restaurant</strong> — Menu with prices, reviews, hours, reservations</td>
+<td width="250"><a href="https://weblodgeagency.github.io/host/salon/" target="_blank"><img src="https://images.unsplash.com/photo-1560066984-138dadb4c035?q=80&w=600&h=400&auto=format&fit=crop" width="250" alt="Hair Salon & Barbershop — The Velvet Strand, Dallas TX"></a><br><strong>💇 Hair Salon & Barbershop</strong> — Services with prices, stylists, reviews, booking</td>
+<td width="250"><a href="https://weblodgeagency.github.io/host/auto-repair/" target="_blank"><img src="https://images.unsplash.com/photo-1625047509168-a7026f36de04?q=80&w=600&h=400&auto=format&fit=crop" width="250" alt="Auto Repair Shop — Ironline Auto Care, Houston TX"></a><br><strong>🔧 Auto Repair Shop</strong> — Services with prices, reviews, appointment booking</td>
+</tr>
+</tbody>
+</table>
 
 👉 <a href="https://weblodgeagency.github.io/host/" target="_blank">See all projects</a>
 
@@ -35,10 +44,23 @@ Websites I built for small businesses — click any project to explore it:
 
 Real client work — click any project to visit the live site:
 
-| | | |
-| --- | --- | --- |
-| <a href="https://novidea.com"><img src="https://raw.githubusercontent.com/weblodgeagency/weblodgeagency/main/assets/featured-novidea.jpg" width="250" alt="Novidea"></a><br>**[Novidea](https://novidea.com)** — Website Design & Development | <a href="https://fatrabbitcreative.com"><img src="https://raw.githubusercontent.com/weblodgeagency/weblodgeagency/main/assets/featured-fatrabbit.jpg" width="250" alt="Fat Rabbit Creative"></a><br>**[Fat Rabbit Creative](https://fatrabbitcreative.com)** — Creative Agency Website | <a href="https://datasales.com"><img src="https://raw.githubusercontent.com/weblodgeagency/weblodgeagency/main/assets/featured-datasales.jpg" width="250" alt="Data Sales"></a><br>**[Data Sales](https://datasales.com)** — WordPress Website Development |
-| <a href="https://uptickmarketing.com.au"><img src="https://raw.githubusercontent.com/weblodgeagency/weblodgeagency/main/assets/featured-uptick.jpg" width="250" alt="Uptick Marketing"></a><br>**[Uptick Marketing](https://uptickmarketing.com.au)** — Branding & Digital Design | <a href="https://walkforlife.net"><img src="https://raw.githubusercontent.com/weblodgeagency/weblodgeagency/main/assets/featured-walkforlife.jpg" width="250" alt="Dingane Baruti M.D."></a><br>**[Dingane Baruti M.D.](https://walkforlife.net)** — Animated Email Signature | <a href="https://billingplatform.com"><img src="https://raw.githubusercontent.com/weblodgeagency/weblodgeagency/main/assets/featured-billingplatform.jpg" width="250" alt="Billingplatform"></a><br>**[Billingplatform](https://billingplatform.com)** — Explainer Video |
+<table>
+<thead>
+<tr><th width="250"></th><th width="250"></th><th width="250"></th></tr>
+</thead>
+<tbody>
+<tr>
+<td width="250"><a href="https://novidea.com"><img src="https://raw.githubusercontent.com/weblodgeagency/weblodgeagency/main/assets/featured-novidea.jpg" width="250" alt="Novidea"></a><br><strong><a href="https://novidea.com">Novidea</a></strong> — Website Design & Development</td>
+<td width="250"><a href="https://fatrabbitcreative.com"><img src="https://raw.githubusercontent.com/weblodgeagency/weblodgeagency/main/assets/featured-fatrabbit.jpg" width="250" alt="Fat Rabbit Creative"></a><br><strong><a href="https://fatrabbitcreative.com">Fat Rabbit Creative</a></strong> — Creative Agency Website</td>
+<td width="250"><a href="https://datasales.com"><img src="https://raw.githubusercontent.com/weblodgeagency/weblodgeagency/main/assets/featured-datasales.jpg" width="250" alt="Data Sales"></a><br><strong><a href="https://datasales.com">Data Sales</a></strong> — WordPress Website Development</td>
+</tr>
+<tr>
+<td width="250"><a href="https://uptickmarketing.com.au"><img src="https://raw.githubusercontent.com/weblodgeagency/weblodgeagency/main/assets/featured-uptick.jpg" width="250" alt="Uptick Marketing"></a><br><strong><a href="https://uptickmarketing.com.au">Uptick Marketing</a></strong> — Branding & Digital Design</td>
+<td width="250"><a href="https://walkforlife.net"><img src="https://raw.githubusercontent.com/weblodgeagency/weblodgeagency/main/assets/featured-walkforlife.jpg" width="250" alt="Dingane Baruti M.D."></a><br><strong><a href="https://walkforlife.net">Dingane Baruti M.D.</a></strong> — Animated Email Signature</td>
+<td width="250"><a href="https://billingplatform.com"><img src="https://raw.githubusercontent.com/weblodgeagency/weblodgeagency/main/assets/featured-billingplatform.jpg" width="250" alt="Billingplatform"></a><br><strong><a href="https://billingplatform.com">Billingplatform</a></strong> — Explainer Video</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
